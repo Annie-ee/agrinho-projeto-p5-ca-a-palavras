@@ -1,0 +1,1 @@
+O projeto em quastão é um caça palavras que apenas com o movimento do mouse acha as palavras e ocorre uma mudança de cor, ele tem o objetivo de obtenção de nota para a diciplina Pernsamento Computacional
